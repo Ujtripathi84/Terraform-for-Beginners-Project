@@ -1,4 +1,4 @@
-# Terraform
+# Terraform for Beginners
 
 ## Project
 - Provision EC2 based HTTP Servers with Load Balancer
